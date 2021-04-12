@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,iBAGE,qBACF,CAEA,KACE,kBACF,CAEA,GACE,cAAe,CACf,YAAa,CACb,aACF","file":"src.57c2e5ee.css","sourceRoot":"../src","sourcesContent":["*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\nbody {\n  background: #7e8b62;\n}\n\nh1 {\n  font-size: 30px;\n  margin-top: 0;\n  color: #08380e;\n}\n"]}
